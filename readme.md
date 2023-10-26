@@ -42,7 +42,7 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/client-server-project.git
+   git clone https://github.com/markow2010/Client-Server-Communication.git
 
 Navigate to the project directory:
 
